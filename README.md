@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luanapetrolli
-- 👀 I’m interested in data science, socianl and environmental sustainability 
+- 👀 I’m interested in data science, social and environmental sustainability 
 - 🌱 I’m currently learning data science, analytics and AI
 - 💞️ I’m looking to collaborate on projects that solve real problems
 - 📫 How to reach me luanapetrolli@gmail.com
